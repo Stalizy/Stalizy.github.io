@@ -16,6 +16,7 @@ tags: [医疗健康, 医养, 衰弱, RCT, 多学科干预]
 - **发表时间**：2026 年 8 月（在线发表）
 - **主要作者**：Ke Chai, Yi Li, Jiefu Yang, Hua Wang 等
 - **注册号**：ChiCTR1900022623
+- **原文链接**：https://www.nature.com/articles/s41467-026-77277-7
 
 ## 2. 研究背景与目的
 
