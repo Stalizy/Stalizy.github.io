@@ -13,7 +13,8 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/posts/' }
+      { text: '博客', link: '/posts/' },
+      { text: '论文阅读', link: '/papers/' }
     ],
 
     sidebar: {
@@ -22,6 +23,14 @@ export default defineConfig({
           text: '博客文章',
           items: [
             { text: 'HealthBench：从框架理解到实验探索', link: '/posts/healthbench' }
+          ]
+        }
+      ],
+      '/papers/': [
+        {
+          text: '论文阅读',
+          items: [
+            { text: 'RENAP 多学科干预对老年衰弱心血管病患者的影响', link: '/papers/renap-frail-cvd' }
           ]
         }
       ]
